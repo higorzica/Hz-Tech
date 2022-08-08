@@ -3,7 +3,7 @@
   🧠 - Atualmente estou trabalhando em Academic Softwares Escolares.<br>
   📍  - Moro em Belo Horizonte - MG - Brasil.<br>  
   💬 - Entusiasta por programação, T.I.<br>  
-  🔍 - Desenvolvimento Web, Delphi e Cobol.<br>
+  🔍 - Desenvolvimento Web, Delphi e PHP.<br>
 <hr>
 <div align="center">
   <a href="https://github.com/HZ-TECH">
